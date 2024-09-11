@@ -1,5 +1,1 @@
-
-#支持私库
 docker.io/xiaoyaliu/alist:latest
-#支持指定架构
-
